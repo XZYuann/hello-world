@@ -25,7 +25,5 @@ char* StrCpy(char* src)
 		//5、返回新申请的内存空间指针
 	return size;
 	}
-	/**
-	远程edit
-	**/
+	
 	
