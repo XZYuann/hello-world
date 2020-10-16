@@ -26,5 +26,3 @@ char* StrCpy(char* src)
 	return size;
 	}
 /*
-本地编辑
-*/
